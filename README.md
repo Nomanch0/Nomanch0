@@ -1,4 +1,4 @@
-# Noman Ali's Data Science Projects
+# Introduction
 
 👋 Hi, I’m Noman Ali.  
 👀 I’m interested in data analysis, machine learning, deep learning, and AI applications.  
